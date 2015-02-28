@@ -1,0 +1,3 @@
+[submodule "cordova-js"]
+	path = cordova-js
+	url = https://github.com/easunny/cordova-js.git
